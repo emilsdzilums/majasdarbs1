@@ -1,0 +1,16 @@
+C:\projekti\majasdarbs1\majasdarbs1\majasdarbs1\bin\Debug\net5.0\majasdarbs1.exe
+C:\projekti\majasdarbs1\majasdarbs1\majasdarbs1\bin\Debug\net5.0\majasdarbs1.deps.json
+C:\projekti\majasdarbs1\majasdarbs1\majasdarbs1\bin\Debug\net5.0\majasdarbs1.runtimeconfig.json
+C:\projekti\majasdarbs1\majasdarbs1\majasdarbs1\bin\Debug\net5.0\majasdarbs1.runtimeconfig.dev.json
+C:\projekti\majasdarbs1\majasdarbs1\majasdarbs1\bin\Debug\net5.0\majasdarbs1.dll
+C:\projekti\majasdarbs1\majasdarbs1\majasdarbs1\bin\Debug\net5.0\ref\majasdarbs1.dll
+C:\projekti\majasdarbs1\majasdarbs1\majasdarbs1\bin\Debug\net5.0\majasdarbs1.pdb
+C:\projekti\majasdarbs1\majasdarbs1\majasdarbs1\obj\Debug\net5.0\majasdarbs1.csproj.AssemblyReference.cache
+C:\projekti\majasdarbs1\majasdarbs1\majasdarbs1\obj\Debug\net5.0\majasdarbs1.GeneratedMSBuildEditorConfig.editorconfig
+C:\projekti\majasdarbs1\majasdarbs1\majasdarbs1\obj\Debug\net5.0\majasdarbs1.AssemblyInfoInputs.cache
+C:\projekti\majasdarbs1\majasdarbs1\majasdarbs1\obj\Debug\net5.0\majasdarbs1.AssemblyInfo.cs
+C:\projekti\majasdarbs1\majasdarbs1\majasdarbs1\obj\Debug\net5.0\majasdarbs1.csproj.CoreCompileInputs.cache
+C:\projekti\majasdarbs1\majasdarbs1\majasdarbs1\obj\Debug\net5.0\majasdarbs1.dll
+C:\projekti\majasdarbs1\majasdarbs1\majasdarbs1\obj\Debug\net5.0\ref\majasdarbs1.dll
+C:\projekti\majasdarbs1\majasdarbs1\majasdarbs1\obj\Debug\net5.0\majasdarbs1.pdb
+C:\projekti\majasdarbs1\majasdarbs1\majasdarbs1\obj\Debug\net5.0\majasdarbs1.genruntimeconfig.cache
